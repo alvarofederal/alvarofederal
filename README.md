@@ -45,6 +45,7 @@ void passionateAbout()
 
 <img src="https://badgen.net/badge/icon/tools/red?icon=github&label&scale=1.5"/>
 <div>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipseide.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
