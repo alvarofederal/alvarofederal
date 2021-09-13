@@ -7,6 +7,8 @@ Just a person aiming to improve their developer skills 💻;
 ````c
 void passionateAbout()
 {
+  java();
+  technologies();
   webDevelopment();
   automation();
   robotics();
@@ -21,40 +23,6 @@ void passionateAbout()
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvarofederal&count_private=true&show_icons=true&theme=gruvbox"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarofederal&layout=compact&theme=gruvbox"/>
   </a>
-</div>
-
-##
-
-
-<div>
-   <a href="https://github.com/alvarofederal/liza-virtual-assistant">
-     <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarofederal&repo=liza-virtual-assistant&theme=gruvbox">
-   </a>
-   <a href="https://github.com/alvarofederal/Base-de-conhecimento">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarofederal&repo=Base-de-conhecimento&theme=gruvbox">
-   </a>
-</div>
-
-
-##
-
-<div>
-   <a href="https://github.com/alvarofederal/Relogio-Pomodoro">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarofederal&repo=Relogio-Pomodoro&theme=gruvbox"/>
-   </a>
-   <a href="https://github.com/alvarofederal/jacare_do_SUS">
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarofederal&repo=jacare_do_SUS&theme=gruvbox">
-   </a>
-</div>
-
-
-##
-
-<img src="https://badgen.net/badge/icon/currently-using/green?icon=github&label&scale=1.5"/>
-<div>
-  <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg"/>
 </div>
 
 ##
@@ -83,11 +51,11 @@ void passionateAbout()
 ### contact me! :)
 
 <div>
-  <a href="https://linkedin.com/in/paulo-vinícius-pinto-743735200">
+  <a href="https://www.linkedin.com/in/alvaropgomes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="mailto:pvincius14@gmail.com">
+  <a href="mailto:alvarofederal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
